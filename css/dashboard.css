@@ -7,7 +7,9 @@ body {
   padding-top: 50px;
 }
 
-
+td.fuckingWrap {
+  word-break: break-word;
+}
 /*
  * Global add-ons
  */
